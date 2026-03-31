@@ -1,16 +1,2 @@
-# tutorstate
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/user-attachments/assets/db81c617-95a9-44aa-aac8-eb52211be1c1" align="left" width="45%" />
+<img src="https://github.com/user-attachments/assets/a27295c9-3dfa-4b10-81fe-485d0cdb6b6d" align="right" width="45%" />
