@@ -1,6 +1,10 @@
 <p align="center">
   <a href="https://www.nihbuatjajan.com/tomflutter">
-    <img src="https://img.shields.io/badge/Donasi-Support%20Me-green?style=flat&logo=ko-fi" alt="Donasi Tomflutter"/>
+    <img src="https://img.shields.io/badge/Donasi-Support%20Me-green?style=flat&logo=ko-fi" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/sponsors/tomflutter">
+    <img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-pink?style=flat&logo=github" />
   </a>
 </p>
 
